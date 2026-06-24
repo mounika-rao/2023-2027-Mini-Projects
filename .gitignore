@@ -1,0 +1,6 @@
+venv312/
+mp/venv312/
+__pycache__/
+*.pyc
+serviceAccountKey.json
+.env

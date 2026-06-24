@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+firebase-admin
+python-multipart
+opencv-python
+pillow
+pytesseract
+anthropic

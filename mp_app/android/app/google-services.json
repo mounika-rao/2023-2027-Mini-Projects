@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599568182498",
+    "project_id": "minisfms",
+    "storage_bucket": "minisfms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599568182498:android:103f7dc4093d18373242bb",
+        "android_client_info": {
+          "package_name": "com.example.mp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3OPQnY-rQLuBZLJ04Y0efqJgVy2zjsKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
